@@ -1,0 +1,9 @@
+title: dm shlandii
+email: 
+description: test description
+
+github_username:  dm-shlandii
+
+theme: minima
+plugins:
+  - jekyll-feed
